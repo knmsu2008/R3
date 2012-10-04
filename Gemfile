@@ -15,6 +15,8 @@ end
 group :test do
   gem 'rspec-rails', '2.6.1'
   gem 'webrat', '0.7.1'
+#  gem 'ZenTest'
+#  gem 'redgreen'
 end
 
 # Gems used only for assets and not required
